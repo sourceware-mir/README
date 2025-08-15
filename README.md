@@ -12,3 +12,5 @@ The reason for these mirrors are -
 
 The NUMBER ONE rule for these mirrors is, if a tag exists on both
 sourceware.org and github.com, the content of that tag is identical.
+This is verified with git archive, tar extract, and diff BEFORE the
+tag is applied.
